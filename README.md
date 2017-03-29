@@ -1,2 +1,1 @@
-# PHPSite
-my PHP site
+# I mean, who actually reads these
