@@ -1,5 +1,5 @@
 /*
-	Stylesheet for PHP practicals March 2017
+	Stylesheet for my PHPSite made in PHPStorm
 */
 * {
 	border:0;
@@ -43,7 +43,7 @@ body {
 #header h2 {
 	color:#579f88;
 	font-size:200%;
-	letter-spacing:-2px;
+	letter-spacing:-1px;
 	text-align:right;
 }
 
